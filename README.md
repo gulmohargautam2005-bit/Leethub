@@ -6,6 +6,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -14,6 +15,7 @@
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
@@ -22,6 +24,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -30,6 +33,7 @@
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -37,6 +41,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -48,6 +53,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -56,5 +62,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
