@@ -17,6 +17,7 @@
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -35,6 +36,7 @@
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -49,19 +51,26 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
