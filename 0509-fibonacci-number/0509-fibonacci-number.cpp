@@ -8,7 +8,7 @@ public:
         if(n==1)
             return 1;
         if(dp.find(n)!=dp.end())
-            dp[n];
+            return dp[n];
         int c1 = fibbo(n-1,dp);
         int c2 = fibbo(n-2,dp);
         dp[n]=c1+c2;
