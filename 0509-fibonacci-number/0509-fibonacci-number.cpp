@@ -11,8 +11,7 @@ public:
             dp[n];
         int c1 = fibbo(n-1,dp);
         int c2 = fibbo(n-2,dp);
-        dp[n-1]=c1;
-        dp[n-2]=c2;
+        dp[n]=c1+c2;
         return c1+c2;
     }
     int fib(int n) {
