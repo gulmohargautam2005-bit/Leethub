@@ -76,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
@@ -86,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
