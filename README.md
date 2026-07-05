@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
@@ -122,9 +123,11 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
