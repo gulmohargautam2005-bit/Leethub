@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
@@ -135,4 +136,8 @@
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
