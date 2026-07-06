@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
