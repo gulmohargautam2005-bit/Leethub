@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
