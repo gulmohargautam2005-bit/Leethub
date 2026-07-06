@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
@@ -188,6 +189,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
