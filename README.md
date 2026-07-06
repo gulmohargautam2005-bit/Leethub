@@ -126,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 ## Stack
@@ -176,6 +178,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
