@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -164,6 +167,7 @@
 | [0018-4sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,11 +179,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
