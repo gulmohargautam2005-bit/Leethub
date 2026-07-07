@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
@@ -183,6 +185,7 @@
 | [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
