@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
@@ -250,6 +252,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
