@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,4 +254,8 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
