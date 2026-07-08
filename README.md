@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
