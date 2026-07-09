@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
