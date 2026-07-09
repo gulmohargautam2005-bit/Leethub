@@ -154,6 +154,7 @@
 | [0013-roman-to-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
@@ -182,6 +183,7 @@
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0344-reverse-string) |
