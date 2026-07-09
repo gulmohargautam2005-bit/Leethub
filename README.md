@@ -114,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
@@ -152,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0014-longest-common-prefix) |
@@ -181,6 +183,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
