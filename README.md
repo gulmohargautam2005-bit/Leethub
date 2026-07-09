@@ -118,6 +118,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -271,4 +272,5 @@
 | [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
