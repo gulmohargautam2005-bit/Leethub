@@ -162,6 +162,7 @@
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
@@ -223,6 +224,7 @@
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
