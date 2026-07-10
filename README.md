@@ -32,6 +32,7 @@
 | [0239-sliding-window-maximum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -163,6 +164,7 @@
 | [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
+| [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
@@ -292,6 +294,7 @@
 | [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
+| [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
 ## Trie
