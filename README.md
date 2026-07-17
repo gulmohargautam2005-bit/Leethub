@@ -129,6 +129,7 @@
 | [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -174,6 +175,7 @@
 | [0344-reverse-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
