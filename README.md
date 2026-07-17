@@ -120,6 +120,7 @@
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
@@ -162,6 +163,7 @@
 | [0014-longest-common-prefix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
