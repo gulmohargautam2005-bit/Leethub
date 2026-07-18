@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
