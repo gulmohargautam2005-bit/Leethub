@@ -37,6 +37,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
@@ -115,6 +116,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
