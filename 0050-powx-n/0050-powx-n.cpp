@@ -12,13 +12,14 @@ public:
         }
         if(n%2==0)
         {
-            
-            return pow(x,n/2)*fun(x,n/2);
+            double half =fun(x,n/2);
+            return half*half;
             
         }
         if(n%2!=0)
         {
-            return x*pow(x,n/2)*fun(x,n/2);
+            double half =fun(x,n/2);
+            return x*half*half;
         }
 
         return x*fun(x,n-1);
