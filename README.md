@@ -38,6 +38,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0410-split-array-largest-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -251,6 +252,7 @@
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
 |  |
