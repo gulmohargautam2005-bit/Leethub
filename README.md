@@ -297,6 +297,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -331,6 +332,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
@@ -422,4 +424,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
