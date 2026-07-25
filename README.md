@@ -184,6 +184,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
@@ -402,6 +403,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
