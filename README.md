@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
@@ -311,6 +313,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0496-next-greater-element-i) |
