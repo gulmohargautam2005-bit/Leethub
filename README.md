@@ -185,6 +185,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
@@ -203,6 +204,7 @@
 | [0050-powx-n](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
@@ -220,6 +222,7 @@
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
@@ -316,6 +319,7 @@
 | [0143-reorder-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0394-decode-string) |
