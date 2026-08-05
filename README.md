@@ -439,6 +439,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +453,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -487,4 +489,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
