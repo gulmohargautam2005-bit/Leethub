@@ -106,6 +106,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
@@ -441,6 +442,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -456,6 +458,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
@@ -496,5 +499,6 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
