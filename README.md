@@ -53,6 +53,7 @@
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
@@ -322,6 +323,7 @@
 | [0496-next-greater-element-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
@@ -359,6 +361,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0191-number-of-1-bits) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -449,6 +452,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +471,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Interactive
 |  |
 | ------- |
