@@ -190,6 +190,7 @@
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -215,6 +216,7 @@
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0204-count-primes) |
@@ -475,6 +477,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -495,6 +498,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -551,6 +555,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
