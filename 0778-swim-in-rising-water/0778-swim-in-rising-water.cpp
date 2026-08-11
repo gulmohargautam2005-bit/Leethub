@@ -1,90 +1,74 @@
 class Solution {
 public:
-    
-   bool valid(int r,int c,int n,int m)
-   {
-        if(r<0 || r>=n || c<0 || c>=m)
-        {
-            return false;
-        }
-        return true;
-   }
-    bool bfs(vector<vector<int>>& grid,int (&x)[],int (&y)[],vector<vector<bool>>&check,int guess,queue<pair<int,int>> &p)
+    bool valid(int &r,int &c,int &n,int &m)
     {
-        if (grid[0][0] > guess)
+        if(r<0||r>=n ||c<0||c>=m)
             return false;
-        int n =grid.size();
-        int m =grid[0].size();
-        while(!p.empty())
+        return true;
+    }
+    bool dfs(queue<pair<int,int>> &pq,vector<vector<bool>>&check,int (&x)[],int (&y)[],int &guess,vector<vector<int>>& grid)
+    {
+        int n = grid.size();
+        int m = grid[0].size();
+        while(!pq.empty())
         {
-           
-            pair<int,int> f =p.front();
-            int row =f.first;
-            int col =f.second;
-            p.pop();  
-            if (row == n - 1 && col == m - 1)
+            if(grid[0][0]>guess)
+                return false;
+            pair<int,int> p = pq.front();
+            int row = p.first;
+            int col = p.second;
+            pq.pop();
+            if(grid[row][col]==grid[n-1][m-1])
                 return true;
-            for(int k =0;k<4;k++)
+            for(int i =0;i<4;i++)
             {
-                int r = row +x[k];
-                int c = col + y[k];
-              
-                if( valid(r,c,n,m) && check[r][c]==false &&grid[r][c]<=guess)
+                int r = row+x[i];
+                int c = col +y[i];
+                if(valid(r,c,n,m) && check[r][c]==false && grid[r][c]<=guess )
                 {
+                    pq.push({r,c});
                     check[r][c]=true;
-                    p.push({r,c});
                 }
-             }
-
+            }
         }
-       
         return false;
     }
-    int fun(vector<vector<int>>& grid,int (&x)[],int (&y)[],vector<vector<bool>>&check,int &res,queue<pair<int,int>> &p)
+    void fun(vector<vector<int>>& grid,int (&x)[],int (&y)[],int & res)
     {
-        int n =grid.size();
-        int m =grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         int low = grid[0][0];
-        int high =INT_MIN;
-        int guess;
-        
-        for(int i=0;i<n;i++)
+        int high = INT_MIN;
+        for(int i =0;i<n;i++)
         {
-            for(int j=0;j <m;j++)
+            for(int j =0;j<m;j++)
             {
-            high = max(high,grid[i][j]);
+                high = max(high,grid[i][j]);
             }
         }
         while(high>=low)
         {
-            vector<vector<bool>> check(n, vector<bool>(m, false));
-            queue<pair<int,int>> p;
-
-            check[0][0] = true;
-            p.push({0,0});
-
-            guess =low +(high-low)/2;
-            if(bfs(grid,x,y,check,guess,p))
+            vector<vector<bool>> check(n,vector<bool>(m,false));
+            queue<pair<int,int>> pq;
+            pq.push({0,0});
+            int guess = low + (high - low) / 2;
+            if(dfs(pq,check,x,y,guess,grid))
             {
-                res =guess;
-                high =guess-1;
+                res = guess;
+                high = guess-1;
             }
             else
             {
-                low =guess+1;
+                low= guess+1;
             }
         }
-        return res;
     }
     int swimInWater(vector<vector<int>>& grid) {
         int x[4]={1,-1,0,0};
         int y[4]={0,0,1,-1};
-        int res =0;
-
-        vector<vector<bool>> check (grid.size(),vector<bool>(grid[0].size(),false));
-        queue <pair<int,int>>p;
-        p.push({0,0});
-        check[0][0]=true;
-        return fun(grid,x,y,check,res,p);
+        int res=0;
+        fun(grid,x,y,res);
+        return res;
+        
     }
 };
