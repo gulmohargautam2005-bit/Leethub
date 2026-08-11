@@ -576,4 +576,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0347-top-k-frequent-elements) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
