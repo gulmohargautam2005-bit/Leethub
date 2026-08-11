@@ -57,6 +57,7 @@
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
@@ -151,6 +152,7 @@
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
@@ -283,6 +285,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 ## Two Pointers
 |  |
@@ -327,6 +330,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
