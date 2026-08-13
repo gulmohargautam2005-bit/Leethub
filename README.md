@@ -76,6 +76,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -451,6 +452,7 @@
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
