@@ -57,6 +57,7 @@
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -91,6 +92,7 @@
 | [0207-course-schedule](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
@@ -134,6 +136,7 @@
 | [0337-house-robber-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
@@ -147,6 +150,7 @@
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
@@ -290,6 +294,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
@@ -353,6 +358,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
@@ -378,6 +384,7 @@
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
