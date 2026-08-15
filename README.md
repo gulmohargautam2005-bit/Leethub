@@ -60,6 +60,7 @@
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0875-koko-eating-bananas) |
@@ -243,6 +244,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
