@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0073-set-matrix-zeroes) |
@@ -228,6 +229,7 @@
 | [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
@@ -327,6 +329,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0410-split-array-largest-sum) |
