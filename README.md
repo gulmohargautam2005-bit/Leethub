@@ -99,6 +99,7 @@
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -144,6 +145,7 @@
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -166,6 +168,7 @@
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -635,8 +638,17 @@
 | ------- |
 | [0207-course-schedule](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
