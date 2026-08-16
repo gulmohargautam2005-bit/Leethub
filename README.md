@@ -40,6 +40,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
@@ -120,6 +121,7 @@
 | [0064-minimum-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0417-pacific-atlantic-water-flow) |
@@ -247,6 +249,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
