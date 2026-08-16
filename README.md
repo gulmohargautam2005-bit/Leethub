@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -241,6 +242,7 @@
 | [0091-decode-ways](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
