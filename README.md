@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
@@ -239,6 +240,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0300-longest-increasing-subsequence) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -304,6 +307,7 @@
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
@@ -396,6 +400,7 @@
 | [0076-minimum-window-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
@@ -512,6 +517,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -692,4 +698,8 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
