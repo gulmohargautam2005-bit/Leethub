@@ -40,6 +40,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0198-house-robber) |
@@ -402,6 +403,7 @@
 | [0049-group-anagrams](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0368-largest-divisible-subset) |
@@ -428,6 +430,7 @@
 | [0139-word-break](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0347-top-k-frequent-elements) |
@@ -477,6 +480,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0347-top-k-frequent-elements) |
@@ -521,6 +525,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
@@ -744,4 +749,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0494-target-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
