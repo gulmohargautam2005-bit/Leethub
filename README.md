@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0055-jump-game) |
@@ -321,6 +322,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0050-powx-n) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0014-longest-common-prefix) |
