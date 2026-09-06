@@ -291,6 +291,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [1137-n-th-tribonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Math
@@ -315,6 +316,7 @@
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
