@@ -87,6 +87,7 @@
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -245,6 +246,7 @@
 | [0875-koko-eating-bananas](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -289,6 +291,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Math
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
