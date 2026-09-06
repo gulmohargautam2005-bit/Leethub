@@ -1,72 +1,45 @@
 class Solution {
 public:
-    bool backtrack(int start,
-                   int currSum,
-                   int target,
-                   int k,
-                   vector<int>& nums,
-                   vector<bool>& used) {
-
-        // We have successfully formed k-1 subsets.
-        // The remaining elements automatically form the last subset.
-        if (k == 1)
+    bool fun(int i,int currsum, int sum,vector<int>& nums,int k,vector<bool> &check)
+    {
+        if(k==1)
             return true;
-
-        // Current subset is complete
-        if (currSum == target) {
-            return backtrack(0, 0, target, k - 1, nums, used);
-        }
-
-        for (int i = start; i < nums.size(); i++) {
-
-            // Already used
-            if (used[i])
+        if(currsum==sum)
+           return fun(0,0,sum,nums,k-1,check);
+        for(int j =i;j<nums.size();j++)
+        {
+            if(check[j]==true)
                 continue;
-
-            // Don't exceed target
-            if (currSum + nums[i] > target)
+            if(nums[j]+currsum>sum)
                 continue;
-
-            // Take nums[i]
-            used[i] = true;
-
-            if (backtrack(i + 1,
-                          currSum + nums[i],
-                          target,
-                          k,
-                          nums,
-                          used))
+            check[j]=true;
+            if(fun(j+1,currsum+nums[j],sum,nums,k,check))
                 return true;
+            check[j]=false;
 
-            // Undo
-            used[i] = false;
         }
-
         return false;
     }
-
     bool canPartitionKSubsets(vector<int>& nums, int k) {
-
-        int total = 0;
-
-        for (int x : nums)
-            total += x;
-
-        // Total must be divisible by k
-        if (total % k != 0)
+        vector<int>dp(nums.size(),-1);
+        int sum = 0;
+        int halfsum =0;
+        bool ans = false;
+        vector<bool> check(nums.size(),false);
+        if(nums.size()<k)
             return false;
-
-        int target = total / k;
-
-        // If any number itself is greater than target,
-        // it can never belong to a valid subset.
+        for(int i=0;i< nums.size();i++)
+        {
+            sum = sum +nums[i];
+        }
+        if(sum%k!=0)
+            return false;
+        halfsum = sum/k;
         for (int x : nums) {
-            if (x > target)
+            if (x > halfsum)
                 return false;
         }
-
-        vector<bool> used(nums.size(), false);
-
-        return backtrack(0, 0, target, k, nums, used);
+        return fun(0,0,halfsum,nums,k,check);
+        
     }
 };
