@@ -94,6 +94,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
+| [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
@@ -540,6 +541,7 @@
 | [0054-spiral-matrix](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1389-create-target-array-in-the-given-order) |
+| [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 ## Counting
