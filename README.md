@@ -206,6 +206,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
+| [1791-find-center-of-star-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1791-find-center-of-star-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
