@@ -92,6 +92,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
@@ -383,6 +384,7 @@
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 ## Combinatorics
 |  |
 | ------- |
@@ -483,6 +485,7 @@
 | [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 ## Stack
 |  |
 | ------- |
