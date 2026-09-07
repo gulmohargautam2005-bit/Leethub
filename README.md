@@ -85,6 +85,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -205,6 +206,7 @@
 | [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1791-find-center-of-star-graph) |
 ## Heap (Priority Queue)
@@ -470,6 +472,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Stack
