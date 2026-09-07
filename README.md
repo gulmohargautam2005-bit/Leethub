@@ -127,6 +127,7 @@
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0802-find-eventual-safe-states](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
