@@ -196,6 +196,7 @@
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -646,6 +647,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -674,6 +676,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Interactive
 |  |
 | ------- |
