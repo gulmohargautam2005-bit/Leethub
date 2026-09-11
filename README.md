@@ -564,6 +564,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -720,6 +721,7 @@
 | [0225-implement-stack-using-queues](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0933-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -742,6 +744,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
