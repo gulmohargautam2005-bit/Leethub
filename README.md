@@ -99,6 +99,7 @@
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
@@ -520,6 +521,7 @@
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -565,6 +567,7 @@
 | [0239-sliding-window-maximum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -578,6 +581,7 @@
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
