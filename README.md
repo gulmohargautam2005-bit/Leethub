@@ -85,6 +85,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0931-minimum-falling-path-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
@@ -158,6 +159,7 @@
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -322,6 +324,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
