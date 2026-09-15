@@ -74,6 +74,7 @@
 | [0682-baseball-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
@@ -315,6 +316,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -418,6 +420,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 ## Two Pointers
