@@ -317,6 +317,7 @@
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0518-coin-change-ii) |
+| [0576-out-of-boundary-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0576-out-of-boundary-paths) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
