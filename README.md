@@ -86,6 +86,7 @@
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
@@ -138,6 +139,7 @@
 | [0841-keys-and-rooms](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
@@ -161,6 +163,7 @@
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -203,6 +206,7 @@
 | [0841-keys-and-rooms](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
+| [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
