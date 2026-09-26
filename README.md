@@ -673,6 +673,7 @@
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
@@ -703,6 +704,7 @@
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
@@ -755,6 +757,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 ## Binary Lifting
