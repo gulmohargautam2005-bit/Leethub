@@ -68,6 +68,7 @@
 | [0503-next-greater-element-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
+| [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
@@ -324,6 +325,7 @@
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0576-out-of-boundary-paths) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -624,6 +626,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
+| [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Trie
@@ -646,6 +649,7 @@
 | [0113-path-sum-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
@@ -867,6 +871,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
