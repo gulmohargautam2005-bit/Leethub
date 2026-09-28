@@ -358,6 +358,7 @@
 | [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
@@ -385,6 +386,7 @@
 | [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 ## String
@@ -630,6 +632,7 @@
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
 | [0473-matchsticks-to-square](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0526-beautiful-arrangement) |
