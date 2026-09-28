@@ -357,6 +357,7 @@
 | [0204-count-primes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
@@ -383,6 +384,7 @@
 | [0206-reverse-linked-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0509-fibonacci-number) |
 ## String
