@@ -74,6 +74,7 @@
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -130,6 +131,7 @@
 | [0463-island-perimeter](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
@@ -197,6 +199,7 @@
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
@@ -519,6 +522,7 @@
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
@@ -690,6 +694,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
