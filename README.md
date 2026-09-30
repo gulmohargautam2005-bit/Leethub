@@ -424,6 +424,7 @@
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 ## Combinatorics
 |  |
 | ------- |
@@ -526,6 +527,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 ## Stack
 |  |
 | ------- |
