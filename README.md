@@ -110,6 +110,7 @@
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
+| [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+| [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
 ## Depth-First Search
 |  |
 | ------- |
