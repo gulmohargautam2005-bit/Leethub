@@ -147,6 +147,7 @@
 | [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -215,6 +216,7 @@
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -249,6 +251,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
@@ -862,6 +865,7 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Bipartite Graph
 |  |
 | ------- |
