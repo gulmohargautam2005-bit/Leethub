@@ -112,6 +112,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
