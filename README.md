@@ -110,6 +110,7 @@
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
 ## Breadth-First Search
 |  |
@@ -435,6 +436,7 @@
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Combinatorics
 |  |
 | ------- |
