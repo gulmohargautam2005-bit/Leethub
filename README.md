@@ -433,6 +433,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
+| [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
 ## Combinatorics
 |  |
 | ------- |
