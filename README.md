@@ -111,6 +111,7 @@
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2574-left-and-right-sum-differences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2574-left-and-right-sum-differences) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2923-find-champion-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2923-find-champion-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -608,6 +609,7 @@
 | [0410-split-array-largest-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
