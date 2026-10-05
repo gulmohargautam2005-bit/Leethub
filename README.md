@@ -139,6 +139,7 @@
 | [0463-island-perimeter](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
@@ -210,6 +211,7 @@
 | [0547-number-of-provinces](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
@@ -719,6 +721,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -751,6 +754,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0703-kth-largest-element-in-a-stream) |
