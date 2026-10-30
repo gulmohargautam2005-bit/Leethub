@@ -109,6 +109,7 @@
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
@@ -449,6 +450,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
