@@ -442,6 +442,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
