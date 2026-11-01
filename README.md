@@ -449,6 +449,7 @@
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0784-letter-case-permutation) |
+| [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
@@ -532,6 +533,7 @@
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
+| [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1051-height-checker](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1200-minimum-absolute-difference) |
@@ -566,6 +568,7 @@
 | [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
