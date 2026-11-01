@@ -452,6 +452,7 @@
 | [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0880-decoded-string-at-index) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
@@ -484,6 +485,7 @@
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
@@ -602,6 +604,7 @@
 | [0880-decoded-string-at-index](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
@@ -614,6 +617,7 @@
 | [0503-next-greater-element-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
