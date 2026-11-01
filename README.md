@@ -451,6 +451,7 @@
 | [0784-letter-case-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
+| [0880-decoded-string-at-index](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0880-decoded-string-at-index) |
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
@@ -598,6 +599,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
+| [0880-decoded-string-at-index](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
