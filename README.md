@@ -462,6 +462,7 @@
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -547,6 +548,7 @@
 | [1200-minimum-absolute-difference](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
 |  |
@@ -587,6 +589,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
@@ -692,6 +695,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
 | ------- |
