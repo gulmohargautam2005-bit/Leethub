@@ -456,6 +456,7 @@
 | [1143-longest-common-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
@@ -487,6 +488,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
@@ -580,6 +582,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -686,6 +689,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
