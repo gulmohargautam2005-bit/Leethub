@@ -111,6 +111,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
@@ -467,6 +468,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -658,6 +660,7 @@
 | [0410-split-array-largest-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
