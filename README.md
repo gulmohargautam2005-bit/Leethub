@@ -389,6 +389,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1137-n-th-tribonacci-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -465,6 +466,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
