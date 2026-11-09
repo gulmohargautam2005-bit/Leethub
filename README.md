@@ -112,6 +112,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
@@ -470,6 +471,7 @@
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -529,6 +531,7 @@
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0876-middle-of-the-linked-list) |
+| [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
 ## Sorting
 |  |
 | ------- |
