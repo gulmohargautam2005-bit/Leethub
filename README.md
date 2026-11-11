@@ -116,6 +116,7 @@
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2073-time-needed-to-buy-tickets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2574-left-and-right-sum-differences) |
@@ -474,6 +475,7 @@
 | [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
@@ -602,6 +604,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -753,6 +756,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0797-all-paths-from-source-to-target) |
+| [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 ## Tree
 |  |
 | ------- |
