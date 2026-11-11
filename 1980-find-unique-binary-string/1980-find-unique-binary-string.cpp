@@ -2,7 +2,7 @@ class Solution {
 public:
     void fun(int i , int n ,string temp,vector<string> &nums,string &res)
     {
-
+        if (!res.empty()) return;   
         if( temp.size()==n && find(nums.begin(),nums.end(),temp)==nums.end())
         {
             res= temp;
