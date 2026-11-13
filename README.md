@@ -477,6 +477,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
@@ -503,6 +504,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
@@ -631,6 +633,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -757,6 +760,7 @@
 | [0784-letter-case-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0797-all-paths-from-source-to-target) |
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
