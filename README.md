@@ -470,6 +470,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
@@ -715,6 +716,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
 | ------- |
