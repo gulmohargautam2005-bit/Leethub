@@ -314,6 +314,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -480,6 +481,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -608,6 +610,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
 |  |
 | ------- |
@@ -667,6 +670,7 @@
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -717,6 +721,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
