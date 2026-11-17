@@ -315,6 +315,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -482,6 +483,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -611,6 +613,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Stack
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -722,6 +726,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
