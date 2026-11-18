@@ -481,6 +481,7 @@
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -511,6 +512,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
 ## Two Pointers
@@ -543,6 +545,7 @@
 | [0844-backspace-string-compare](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0876-middle-of-the-linked-list) |
 | [1813-sentence-similarity-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1813-sentence-similarity-iii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
