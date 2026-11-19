@@ -483,6 +483,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2785-sort-vowels-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2785-sort-vowels-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -576,6 +577,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1834-single-threaded-cpu) |
+| [2785-sort-vowels-in-a-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
