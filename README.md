@@ -481,6 +481,7 @@
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
@@ -512,6 +513,7 @@
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1642-furthest-building-you-can-reach](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1642-furthest-building-you-can-reach) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2938-separate-black-and-white-balls) |
@@ -618,6 +620,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1980-find-unique-binary-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Stack
@@ -647,6 +650,7 @@
 | [1544-make-the-string-great](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
 |  |
 | ------- |
