@@ -84,6 +84,7 @@
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0875-koko-eating-bananas) |
@@ -149,6 +150,7 @@
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -454,6 +456,7 @@
 | [0567-permutation-in-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
@@ -605,6 +608,7 @@
 | [0621-task-scheduler](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0859-buddy-strings) |
@@ -1020,4 +1024,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1051-height-checker) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
