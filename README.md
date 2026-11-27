@@ -163,6 +163,7 @@
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0994-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -234,6 +235,7 @@
 | [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -621,6 +623,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1400-construct-k-palindrome-strings) |
 | [1436-destination-city](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1436-destination-city) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1496-path-crossing](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1496-path-crossing) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -821,6 +824,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -940,6 +944,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0337-house-robber-iii) |
 | [0563-binary-tree-tilt](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0563-binary-tree-tilt) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
