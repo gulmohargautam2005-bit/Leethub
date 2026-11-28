@@ -233,6 +233,7 @@
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0897-increasing-order-search-tree) |
 | [0934-shortest-bridge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0934-shortest-bridge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0965-univalued-binary-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0965-univalued-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -250,6 +251,7 @@
 | [0778-swim-in-rising-water](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
@@ -269,6 +271,7 @@
 | [0841-keys-and-rooms](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1584-min-cost-to-connect-all-points) |
@@ -616,6 +619,7 @@
 | [0859-buddy-strings](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0859-buddy-strings) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/1189-maximum-number-of-balloons) |
@@ -991,6 +995,7 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gulmohargautam2005-bit/Leethub/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Brute-Force Search
 |  |
 | ------- |
